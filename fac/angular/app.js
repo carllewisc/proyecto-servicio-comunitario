@@ -35,7 +35,7 @@ app.controller('mainCtrl', ['$scope', 'Configuracion','Mensajes', 'Notificacione
 
 
 	$scope.usuario = {
-		nombre:"Fernando Herrera"
+		nombre:"Carl Lewis Castillo"
 	}
 
 

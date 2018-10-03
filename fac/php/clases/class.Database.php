@@ -5,7 +5,7 @@
 // Descripcion: Tiene varias funciones muy útiles para
 // 				el manejo de registros.
 // 				
-// Ultima Modificación: 17 de marzo de 2015
+// Ultima Modificación: 30 de septiembre de 2018
 // ======================================================
 	
 

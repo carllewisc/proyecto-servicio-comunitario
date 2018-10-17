@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Facturación</title>
+</head>
+<body>
+
+	Click <a href="public/">aquí</a> si no es redirigido automáticamente.
+
+              <button ng-click="guardar_factura()" class="btn btn-primary pull-right" style="margin-right: 5px;" id="print"><i class="fa fa-download"></i> Generar Factura</button>
+<script>
+  let print = document.getElementById("print");
+
+  print.addEventListener('click', function(){
+    window.print();  
+  })
+
+  
+</script>
+
+
+	
+</body>
+</html>
